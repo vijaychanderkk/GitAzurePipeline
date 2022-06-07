@@ -15,7 +15,7 @@ namespace GitAzurePipeline
     {
         public Startup(IConfiguration configuration)
         {
-            //modified
+            //modified.
             Configuration = configuration;
         }
 
